@@ -20,6 +20,6 @@ public class ReverseWords {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(reverseWord("Hello Tester"));		
+		System.out.println(reverseWord("Hello R"));		
 	}
 }

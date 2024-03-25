@@ -9,3 +9,4 @@
 8. Swap values of two variables without direct reassignment and without creating any extra variables.
 9. Two string anagram. An anagram is when all the letters in one string exist in another but the order of letters does not matter. Write a method that accepts two string arguments and returns true if they are anagram and false if they are not.
 10. Remove duplicates from a string. Write a method that accepts one string argument and returns it without duplicates.
+11. Create a sorted array from given array.
